@@ -9,13 +9,23 @@ His Story is an interactive movie game, focusing on a series of seven fictional 
 * :superhero: Asanbek u Rysbek - Main Actor :superhero:
 * :astronaut: Omorali u Nurzaman - Tech Support :astronaut:
 
+# Used Technologies
+* Java 17
+* JavaFX
+* JavaFX CSS
+* Maven
+
 # Images
 
 <p align="center"> 
-   ![My Image]("C:\Users\space\OneDrive\Изображения\Снимки экрана\Снимок экрана (4).png")
-   ![My Image]("C:\Users\space\OneDrive\Изображения\Снимки экрана\Снимок экрана (5).png")
-   ![My Image]("C:\Users\space\OneDrive\Изображения\Снимки экрана\Снимок экрана (6).png")
-   ![My Image]("C:\Users\space\OneDrive\Изображения\Снимки экрана\Снимок экрана (7).png")
   
+  ![Снимок экрана (4)](https://github.com/ErmekNakypov/HIS_STORY/assets/109239709/dfd7340c-0738-490d-b2b0-35937c12beb8)
+   
+  ![Снимок экрана (5)](https://github.com/ErmekNakypov/HIS_STORY/assets/109239709/1f0c25f8-18de-4c1c-9c93-fe608ce9cb2d) 
+   
+  ![Снимок экрана (6)](https://github.com/ErmekNakypov/HIS_STORY/assets/109239709/429bcbd1-d9b1-42d7-8c80-a412be714d21)
+   
+  ![Снимок экрана (7)](https://github.com/ErmekNakypov/HIS_STORY/assets/109239709/6f1df991-de24-48e3-ac52-b625c797c13f)
+
 </p>
 
